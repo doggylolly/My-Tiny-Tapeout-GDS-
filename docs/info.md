@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I used the default logo code and added my own picture found on the internet of the character Spamton from Deltarune! So basically Spamton jumps on your screen randomly from side to side.
 
 ## How to test
 
-Explain how to use your project
+You load it up and put all of the code and compile it.
 
 ## External hardware
 
